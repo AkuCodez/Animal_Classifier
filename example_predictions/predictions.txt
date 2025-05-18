@@ -1,0 +1,1 @@
+elephant (1).jpg → Predicted: Elephant (99.00% confidence)
